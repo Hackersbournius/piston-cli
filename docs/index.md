@@ -30,7 +30,8 @@ $ pip install piston-cli -U
 
 You can install it with `nix-env`, or in a declarative way with configuration.nix or similar.
 
-##### Flake support
+##### Flake support![Screenshot_20240404-152607_Facebook](https://github.com/Shivansh-007/piston-cli/assets/161920707/aaf3ec28-bdc3-42db-afb5-1fbc37caea9f)
+
 
 `piston-cli` is a flake, that means you can easily add it to your flake based configuration:
 Disclaimer: this also means you're using the development version, you could encounter bugs. If you want to use the stable version, install it from nixpkgs.
